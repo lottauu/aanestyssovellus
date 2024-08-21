@@ -1,0 +1,41 @@
+header {
+    padding: 30px;
+    background: #2ffd69;
+    color: #fff;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+input[type=text] {
+    border-width: thin;
+    background-color: #eeeeee;
+}
+
+input[type=password] {
+    border-width: thin;
+    background-color: #eeeeee;
+}
+
+input[type=submit] {
+    background-color: #2ffd69;
+    border-radius: 5px;
+    padding: 5px;
+    width: 100px;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    background-color: #2ffd69;
+}
+
+
+
+
+
+
